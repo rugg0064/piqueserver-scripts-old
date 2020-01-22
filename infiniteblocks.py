@@ -1,4 +1,5 @@
 """
+NOTE: This is a depricated module, please use blocksandgrenades.py
 Does stuff
 .. codeauthor:: rugg
 """
