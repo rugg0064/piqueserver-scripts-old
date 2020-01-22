@@ -2,12 +2,9 @@
 Gives the player infinite blocks and a given amount of grenades
 
 CONFIG SETTING EXAMPLE for 5 grenades
-"regen" : {
-	"regen_delay" : 1,
-	"heal_loop_speed" : 0.07,
-	"heal_amount" : 1
-}
-w
+
+"starting_grenades": 5,
+
 Script by Rugg
 """
 import math
