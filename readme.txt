@@ -1,0 +1,1 @@
+Bad scripts that were written a long time ago, please look at https://github.com/rugg0064/UpdatedPiqueserverScripts
